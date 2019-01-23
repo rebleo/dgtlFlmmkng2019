@@ -66,7 +66,7 @@ To turn in your homework you must link to it every week on the class wiki. Where
 
 ###### [Week 3](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-03):
 
-###### [Week 4](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-04:
+###### [Week 4](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-04):
 
 ###### [Week 5](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-05):
 
