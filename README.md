@@ -59,17 +59,21 @@ To turn in your homework you must link to it every week on the class wiki. Where
 * Persistence of Vision: Intro to the Camera Arts
 
 
-###### [Week 2](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-02): Visual Narrative, the Storyboard and Sequencing
-* Visual Narrative, the Storyboard and Sequencing
-* Intro to Digital Imaging, the DSL, Exposure, Light + WB
+###### [Week 2](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-02): Making Video w/ a Single Lens Release
+* Intro to Making Video w/ a DSLR: Exposure, Light, WB + Framerate
+* Intro to Adobe Premiere
 
 
-###### [Week 3](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-03):
+###### [Week 3](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-03): Montage
+* Screening: Sergei Eisenstein + Arthur Jaffa
+* Project 1 Studio
+* Project 1 Critique
 
-###### [Week 4](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-04):
+###### [Week 4](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-04): Narrative Filmmaking
+* Screening: 180 Degree Rule, Continuity + Shooting for the Edit
+* Hitchcock + Classic Narrative Editing Techniques
 
 ###### [Week 5](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-05):
-
 
 ###### Week 6:
 
