@@ -73,17 +73,20 @@ To turn in your homework you must link to it every week on the class wiki. Where
 * Screening: 180 Degree Rule, Continuity + Shooting for the Edit
 * Hitchcock + Classic Narrative Editing Techniques
 
-###### [Week 5](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-05):
+###### [Week 5](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-05): Cinematography
+* Screening: Visual Systems
 
-###### Week 6:
+###### [Week 6](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-06): Documentary Filmmaking
 
-###### Week 7:
+###### [Week 7](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-07):
 
-###### Week 8:
+###### [Week 8](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-08):
 
 ###### Week 9:
 
 ###### Week 10:
+
+###### Spring Break
 
 ###### Week 11:
 
@@ -91,9 +94,8 @@ To turn in your homework you must link to it every week on the class wiki. Where
 
 ###### Week 13: Final Project Studio
 
-###### Week 14: Final Project Studio
+###### Week 14: Final Projects Due + Critique
 
-###### Week 15: Final Projects Due + Critique
 
 ---
 
