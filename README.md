@@ -76,23 +76,36 @@ To turn in your homework you must link to it every week on the class wiki. Where
 ###### [Week 5](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-05): Cinematography
 * Screening: Visual Systems
 
-###### [Week 6](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-06): Documentary Filmmaking
+###### [Week 6](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-06): Narrative Editing Critique
+* Screening Documentary Filmmaking
 
-###### [Week 7](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-07):
+###### [Week 7](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-07): Project 2 Studio
+* Project 2 Process Critique
 
-###### [Week 8](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-08):
+###### [Week 8](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-08): Project 2 - Hitchcock Remakes Due + critique
+* Screening: Film as Design Object
+* Intro to Final Project
 
-###### Week 9:
+###### [Week 9](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-09): Final Project Pitch
+* Demo - Video Transformations + Effects
+* Screening + Demo: Intro to Special Effects
 
-###### Week 10:
+###### [Week 10](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-10):
+* Demo - Making Titles in Premiere
+* Demo - Making Titles in After Effects
+* Discuss Final Project Process
 
 ###### Spring Break
 
-###### Week 11:
+###### [Week 11](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-11):
+* Demo - Color Profiles
+* Discuss Final Project Process
+* Final Project Studio
 
-###### Week 12:
+###### [Week 12](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-12,-13-&-14): Working Edit Screening + Critique
 
-###### Week 13: Final Project Studio
+###### [Week 13](https://github.com/rebleo/dgtlFlmmkng2019/wiki/Week-12,-13-&-14): Rough Cuts Due
+* Final Project Studio 
 
 ###### Week 14: Final Projects Due + Critique
 
